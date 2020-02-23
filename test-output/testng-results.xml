@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20069" started-at="2019-02-23T16:48:58Z" finished-at="2019-02-23T16:49:18Z">
+  <suite name="WebDriver" duration-ms="10947" started-at="2020-02-23T19:37:00 IST" finished-at="2020-02-23T19:37:11 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20069" started-at="2019-02-23T16:48:58Z" finished-at="2019-02-23T16:49:18Z">
+    <test name="Test" duration-ms="10947" started-at="2020-02-23T19:37:00 IST" finished-at="2020-02-23T19:37:11 IST">
       <class name="TestNG.addressbook">
-        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addressbook@3e6fa38a]" name="launch" is-config="true" duration-ms="14884" started-at="2019-02-23T16:48:58Z" finished-at="2019-02-23T16:49:13Z">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addressbook@cd2dae5]" name="launch" is-config="true" duration-ms="7279" started-at="2020-02-23T19:37:00 IST" finished-at="2020-02-23T19:37:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addressbook@3e6fa38a]" name="verifyaddbook" duration-ms="5117" started-at="2019-02-23T16:49:13Z" finished-at="2019-02-23T16:49:18Z">
+        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addressbook@cd2dae5]" name="verifyaddbook" duration-ms="3434" started-at="2020-02-23T19:37:08 IST" finished-at="2020-02-23T19:37:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyaddbook -->
-        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addressbook@3e6fa38a]" name="close" is-config="true" duration-ms="1" started-at="2019-02-23T16:49:18Z" finished-at="2019-02-23T16:49:18Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addressbook@cd2dae5]" name="close" is-config="true" duration-ms="1" started-at="2020-02-23T19:37:11 IST" finished-at="2020-02-23T19:37:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- TestNG.addressbook -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- WebDriver -->
 </testng-results>
