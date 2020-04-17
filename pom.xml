@@ -35,7 +35,6 @@
   <configuration>
     <testFailureIgnore>true</testFailureIgnore>
     </configuration>
-</plugin>
   <suiteXmlFiles>
   <suiteXmlFile>testing.xml</suiteXmlFile>
   </suiteXmlFiles>
