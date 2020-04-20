@@ -1,9 +1,10 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="WebDriver">
-<test name="Test">
-<classes>
-<class name="TestNG.addressbook"/>
-</classes>
-</test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="2" name="TestNG Forum" parallel="tests">
+  <test name="TestNG Test0" preserve-order="false">
+    <parameter name="device" value="58f56054954b6b3e323a3405fc49023eb1569a98"/>
+    <packages>
+      <package name="output"/>
+    </packages>
+  </test> <!-- TestNG Test0 -->
+</suite> <!-- TestNG Forum -->
